@@ -1,1 +1,5 @@
-keys.ENV
+config.py
+
+logs/
+
+__pycache__/
