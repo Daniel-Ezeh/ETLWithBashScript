@@ -3,3 +3,5 @@ config.py
 logs/
 
 __pycache__/
+
+buffered_log/
